@@ -1,14 +1,27 @@
 body{
+<<<<<<< HEAD
+color: #040500;
+}
+.container{
+text-align: center;
+background-color: #dbdbdb;
+padding:20px;
+=======
 color: #a6e421;
 }
 .container{
 text-align: center;
 
+>>>>>>> 7e0f122048234d0986eeea9e3a267c6a2e6402cd
 
 }
 
 .container table{
 display: inline-block;
+<<<<<<< HEAD
+background-color: #dbdbdb;
+=======
 
+>>>>>>> 7e0f122048234d0986eeea9e3a267c6a2e6402cd
 
 }
