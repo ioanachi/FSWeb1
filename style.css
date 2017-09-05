@@ -1,0 +1,15 @@
+body{
+color: #040500;
+}
+.container{
+text-align: center;
+background-color: #dbdbdb;
+padding:20px;
+
+}
+
+.container table{
+display: inline-block;
+background-color: #dbdbdb;
+
+}
